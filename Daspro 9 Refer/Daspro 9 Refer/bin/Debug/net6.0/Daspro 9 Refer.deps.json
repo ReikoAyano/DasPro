@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Daspro 9 Refer/1.0.0": {
+        "runtime": {
+          "Daspro 9 Refer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Daspro 9 Refer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

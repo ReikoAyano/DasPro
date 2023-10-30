@@ -1,0 +1,14 @@
+D:\Documents\8Coding\Daspro 9 Refer\Daspro 9 Refer\bin\Debug\net6.0\Daspro 9 Refer.exe
+D:\Documents\8Coding\Daspro 9 Refer\Daspro 9 Refer\bin\Debug\net6.0\Daspro 9 Refer.deps.json
+D:\Documents\8Coding\Daspro 9 Refer\Daspro 9 Refer\bin\Debug\net6.0\Daspro 9 Refer.runtimeconfig.json
+D:\Documents\8Coding\Daspro 9 Refer\Daspro 9 Refer\bin\Debug\net6.0\Daspro 9 Refer.dll
+D:\Documents\8Coding\Daspro 9 Refer\Daspro 9 Refer\bin\Debug\net6.0\Daspro 9 Refer.pdb
+D:\Documents\8Coding\Daspro 9 Refer\Daspro 9 Refer\obj\Debug\net6.0\Daspro 9 Refer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\8Coding\Daspro 9 Refer\Daspro 9 Refer\obj\Debug\net6.0\Daspro 9 Refer.AssemblyInfoInputs.cache
+D:\Documents\8Coding\Daspro 9 Refer\Daspro 9 Refer\obj\Debug\net6.0\Daspro 9 Refer.AssemblyInfo.cs
+D:\Documents\8Coding\Daspro 9 Refer\Daspro 9 Refer\obj\Debug\net6.0\Daspro 9 Refer.csproj.CoreCompileInputs.cache
+D:\Documents\8Coding\Daspro 9 Refer\Daspro 9 Refer\obj\Debug\net6.0\Daspro 9 Refer.dll
+D:\Documents\8Coding\Daspro 9 Refer\Daspro 9 Refer\obj\Debug\net6.0\refint\Daspro 9 Refer.dll
+D:\Documents\8Coding\Daspro 9 Refer\Daspro 9 Refer\obj\Debug\net6.0\Daspro 9 Refer.pdb
+D:\Documents\8Coding\Daspro 9 Refer\Daspro 9 Refer\obj\Debug\net6.0\Daspro 9 Refer.genruntimeconfig.cache
+D:\Documents\8Coding\Daspro 9 Refer\Daspro 9 Refer\obj\Debug\net6.0\ref\Daspro 9 Refer.dll
